@@ -1,3 +1,4 @@
+![Banner de apresentação](https://sdmntpreastus.oaiusercontent.com/files/00000000-8804-61f9-9ba6-edb9076cea7a/raw?se=2025-06-30T15%3A37%3A20Z&sp=r&sv=2024-08-04&sr=b&scid=18ba4ca0-03f9-55ef-8f46-90fa626a3827&skoid=b0fd38cc-3d33-418f-920e-4798de4acdd1&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-30T08%3A51%3A14Z&ske=2025-07-01T08%3A51%3A14Z&sks=b&skv=2024-08-04&sig=7sAJXj1hVudAqNTECqPCBJtsfHH5PsBZQMnZrH7tRx4%3D)
 # Olá, eu sou a Lara Rafaella 👋
 
 🎓 Estudante de Ciência da Computação  
